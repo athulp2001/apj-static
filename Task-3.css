@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;1,100&display=swap');
+
+*{
+    
+}
+
+body{
+    margin: 0;
+}
+.mainhead{
+   
+    height: 100%;
+    border: solid;
+    border-color:rgb(3, 3, 107);
+    border-width: 7px;
+    margin-top: 10%;
+    margin-left: 10%;
+    width: 80%;
+    background-color: rgb(225, 221, 243);
+   
+}
+.mainhead-div-2{
+    font-weight: 600;
+    margin-top: 10%;
+    margin-left: 5%;
+    width: 90%;
+    font-family: 'Roboto', sans-serif;
+  margin-bottom: 5%;
+    
+    
+}
+.imgandname{
+  
+    display: flex;
+}
+.imgAPJ{
+
+    
+}
+.name{
+    font-family: 'Roboto', sans-serif;
+    margin-left: 60px;
+    font-size: 60px;
+    margin-top: 150px;
+}
+
+.DOB{
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+margin-top: 230px;
+margin-left: -140px;
+}
+h1{
+    font-weight: bold;
+    font-size: 35px;
+}
+h3{
+    margin-left: 25px;
+}
+.name{
+
+}
+.final-div{
+    margin-top: 100px;
+    margin-left: 500px;
+}
+.linkAPJ{
+    font-weight: bold;
+    text-decoration:none;
+}
+.about{
+    font-weight: bold;
+}
+.bio{
+    font-family: 'Roboto', sans-serif;
+    margin-left: -24px;
+    width: 100%;
+   
+}
+
+.Pay{
+    margin-top: 150px;
+    margin-left: 300px;
+   
+    background-color: rgb(210, 249, 249);
+    width: 50%;
+    height: 240px;
+}
+.pay-2{
+    display: flex;
+}
+.foethis-p{
+    margin-top: 40px;
+    font-size: 22px;
+    margin-left: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+.you-need-p{
+    font-family: arial;
+    margin-top: 10px;
+    margin-left: 100px;
+    font-weight :bold;
+    font-size: large;
+    
+}
+.pay-50{
+    font-size: 17px;
+    font-weight: 500;
+    font-family: arial;
+    margin-top: -10px;
+    margin-left: 100px;
+}
+.justscan-p{
+    font-family: arial;
+   margin-left: 30px;
+    font-size: 20px;
+    
+
+}
+
